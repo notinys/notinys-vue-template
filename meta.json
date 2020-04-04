@@ -12,8 +12,15 @@
   "github": [
     {
       "repo": "notinys/notiny-template",
-      "description": "notiny 模版示例",
-      "last_update": "2018-01-06T14:02:02Z"
+      "description": "模版示例"
+    },
+    {
+      "repo": "notinys/notiny-vue-template",
+      "description": "vue模版示例"
+    },
+    {
+      "repo": "notinys/notiny-applet-template",
+      "description": "小程序模版示例"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "official": [
+    {
+      "name": "empty",
+      "description": "空模板"
+    },
+    {
+      "name": "standard",
+      "description": "模认模板"
+    }
+  ],
+  "github": [
+    {
+      "repo": "notinys/notiny-template",
+      "description": "notiny 模版示例",
+      "last_update": "2018-01-06T14:02:02Z"
+    }
+  ]
+}

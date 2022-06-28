@@ -11,15 +11,15 @@
   ],
   "github": [
     {
-      "repo": "notinys/template",
+      "repo": "o8u/template",
       "description": "模版示例"
     },
     {
-      "repo": "notinys/vue-template",
+      "repo": "o8u/vue-template",
       "description": "vue模版示例"
     },
     {
-      "repo": "notinys/applet-template",
+      "repo": "o8u/applet-template",
       "description": "小程序模版示例"
     }
   ]

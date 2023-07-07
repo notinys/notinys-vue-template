@@ -32,7 +32,7 @@
       "display": "Vue",
       "description": "Vue framework",
       "color": "green",
-      "variants": [
+      "template": [
         {
           "name": "vue",
           "display": "Vue JavaScript",
@@ -64,7 +64,7 @@
       "display": "Node",
       "description": "Node Backend Service",
       "color": "cyan",
-      "variants": [
+      "template": [
         {
           "name": "koa",
           "display": "Node Koa RESTAPI",
@@ -84,7 +84,7 @@
       "display": "Others",
       "description": "Others Framework",
       "color": "reset",
-      "variants": [
+      "template": [
         {
           "name": "others-electron",
           "display": "Other Electron",
